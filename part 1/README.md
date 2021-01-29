@@ -23,4 +23,4 @@ No exercise here ^^
 
 - Exercises 1.6 -> 1.11 [see code](https://github.com/julio4/2020-fullstack-open/blob/main/part%201/c.d.%20A%20more%20complex%20state,%20debugging%20React%20apps/index_1.6_1.11.js)
 
-- Exercises 1.12 -> 1.14
+- Exercises 1.12 -> 1.14 [see code](https://github.com/julio4/2020-fullstack-open/blob/main/part%201/c.d.%20A%20more%20complex%20state,%20debugging%20React%20apps/index_1.14.js)
