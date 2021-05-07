@@ -18,7 +18,7 @@
 
 [Course materials](https://fullstackopen.com/en/part2/getting_data_from_server)
 
-- Exercises 2.11 -> 2.14 [see code](./c%20Getting%20data%20rom%20server)
+- Exercises 2.11 -> 2.14 [see code](./c%20Getting%20data%20from%20server)
 
 ### d. Altering data in server
 
