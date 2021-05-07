@@ -24,7 +24,7 @@
 
 [Course materials](https://fullstackopen.com/en/part2/altering_data_in_server)
 
-- Exercises 2.15 -> 2.18
+- Exercises 2.15 -> 2.18 [see code](./d%20Altering%20data%20in%20server)
 
 ### e. Adding styles to React app
 
