@@ -30,4 +30,4 @@
 
 [Course materials](https://fullstackopen.com/en/part2/adding_styles_to_react_app)
 
-- Exercises 2.19 -> 2.20
+- Exercises 2.19 -> 2.20 [see code](./e%20Adding%20styles%20to%20react%20app)
