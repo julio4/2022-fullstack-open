@@ -1,8 +1,8 @@
-# Full Stack Open 2021
+# Full Stack Open 2022
 
 I use this repository to save exercise of the Full Stack open course of the University of Helsinki.
 
-This is from the 2021 edition, wich can be accessed for free on the [Full Stack Open course website](https://fullstackopen.com/en/)
+This is from the 2020/2021/2022 edition, wich can be accessed for free on the [Full Stack Open course website](https://fullstackopen.com/en/)
 
 Description :
 Learn React, Redux, Node.js, MongoDB, GraphQL and TypeScript in one go! This course will introduce you to modern JavaScript-based web development. The main focus is on building single page applications with ReactJS that use REST APIs built with Node.js.
