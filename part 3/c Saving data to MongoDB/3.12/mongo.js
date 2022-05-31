@@ -18,20 +18,37 @@ const personSchema = new mongoose.Schema({
 
 const Person = mongoose.model("Person", personSchema);
 
-mongoose
-  .connect(url)
-  .then(() => {
-    console.log('connected')
+if (process.argv.length < 5) {
+  mongoose
+    .connect(url)
+    .then(() => {
+      console.log('connected')
 
-    const person = new Person({
-      name: process.argv[3],
-      numero: process.argv[4],
-    });
+      return Person.find({});
+    })
+    .then((result) => {
+      result.forEach(person => {
+        console.log(person);
+      });
+      mongoose.connection.close();
+    })
+    .catch((err) => console.log(err))
+} else {
+  mongoose
+    .connect(url)
+    .then(() => {
+      console.log('connected')
 
-    return person.save();
-  })
-  .then(() => {
-    console.log("person saved!");
-    mongoose.connection.close();
-  })
-  .catch((err) => console.log(err))
+      const person = new Person({
+        name: process.argv[3],
+        numero: process.argv[4],
+      });
+
+      return person.save();
+    })
+    .then(() => {
+      console.log("person saved!");
+      mongoose.connection.close();
+    })
+    .catch((err) => console.log(err))
+}
