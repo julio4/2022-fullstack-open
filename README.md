@@ -22,3 +22,8 @@ Learn React, Redux, Node.js, MongoDB, GraphQL and TypeScript in one go! This cou
 ## [Part 3 - Programming a server with NodeJS and Express](./part%203)
 
 [Course materials](https://fullstackopen.com/en/part3)
+
+## [Part 4 - Testing Express servers, user administration](./part%204)
+
+[Course materials](https://fullstackopen.com/en/part4)
+
