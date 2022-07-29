@@ -27,3 +27,6 @@ Learn React, Redux, Node.js, MongoDB, GraphQL and TypeScript in one go! This cou
 
 [Course materials](https://fullstackopen.com/en/part4)
 
+## [Part 5 - Testing React apps](./part%205)
+
+[Course materials](https://fullstackopen.com/en/part5)
