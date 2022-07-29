@@ -1,0 +1,35 @@
+div {
+  margin: 5px;
+}
+
+input {
+  margin-left: 10px;
+}
+
+.notification-box {
+  display: inline-block;
+  padding: 1em;
+  border-radius: 10px;
+  border: 2px solid;
+}
+
+.error {
+  border-color: red;
+  color: red;
+}
+
+.success {
+  border-color: green;
+  color: green;
+}
+
+.blog-post {
+  padding: 10px;
+  border: 2px solid;
+  border-radius: 5px;
+  margin-bottom: 5px;
+}
+
+.blog-post button {
+  margin-left: 10px;
+}
