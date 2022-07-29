@@ -1,4 +1,4 @@
-# Full Stack Open 2021
+# Full Stack Open 2022
 
 ## [Part 3 - Programming a server with NodeJS and Express](https://fullstackopen.com/en/part3)
 

@@ -1,4 +1,4 @@
-# Full Stack Open 2020
+# Full Stack Open 2022
 
 ## [Part 0 - Fundamentals of Web Apps](https://fullstackopen.com/en/part0)
 
