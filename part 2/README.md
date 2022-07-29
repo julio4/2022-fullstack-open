@@ -1,4 +1,4 @@
-# Full Stack Open 2020
+# Full Stack Open 2022
 
 ## [Part 2 - Communicating with server](https://fullstackopen.com/en/part2)
 
