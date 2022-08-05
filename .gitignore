@@ -1,4 +1,4 @@
-frontend/
-backend/
-blog_backend/
-bloglist-frontend/
+package-lock.json
+.eslintrc.js
+node_modules/
+.env
