@@ -30,3 +30,9 @@ Learn React, Redux, Node.js, MongoDB, GraphQL and TypeScript in one go! This cou
 ## [Part 5 - Testing React apps](./part%205)
 
 [Course materials](https://fullstackopen.com/en/part5)
+
+From part 6 I use branches to manage  exercises. The previous way was highly inefficient. The frontend and backend of the apps of the previous parts are available in their corresponding branches (notes and blogs).
+
+## [Part 6 - State management with Redux](./part%206)
+
+[Course materials](https://fullstackopen.com/en/part6)
