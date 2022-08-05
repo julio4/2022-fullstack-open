@@ -1,9 +1,0 @@
-POST http://localhost:3003/api/blogs
-Content-Type: application/json
-
-{
-    "title": "Hello World!",
-    "author": "Julio",
-    "url": "https://github.com/julio4/2022-fullstack-open",
-    "likes": 8
-}
