@@ -6,9 +6,9 @@
 
 [Course materials](https://fullstackopen.com/en/part6/flux_architecture_and_redux)
 
-- Exercises 6.1 -> 6.2 [see branch](https://github.com/julio4/2022-fullstack-open/tree/unicafe-redux-frontend)
+- Exercises 6.1 -> 6.2 [see commit](https://github.com/julio4/2022-fullstack-open/commit/669b70fb0254bb35648ebbeb47c76b60e4b49f6e)
 
-- Exercises 6.3 -> 6.8 [see branch](https://github.com/julio4/2022-fullstack-open/tree/anecdotes-frontend)
+- Exercises 6.3 -> 6.8 [see commit](https://github.com/julio4/2022-fullstack-open/commit/463e5d1078640ba887f7bf46d458128ae7ba1f0b)
 
 ### b. Many reducers
 
