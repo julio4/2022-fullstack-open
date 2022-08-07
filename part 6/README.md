@@ -14,15 +14,15 @@
 
 [Course materials](https://fullstackopen.com/en/part6/many_reducers)
 
-- Exercises 6.9 -> 6.12 [wip](.)
+- Exercises 6.9 -> 6.12 [see commit](https://github.com/julio4/2022-fullstack-open/commit/e4629d3754c636d7f81db1d14d9993af979ec6b2)
 
 ### c. Communicating with server in a redux application
 
 [Course materials](https://fullstackopen.com/en/part6/communicating_with_server_in_a_redux_application)
 
-- Exercises 6.13 -> 6.14 [wip](.)
+- Exercises 6.13 -> 6.14 [see commit](https://github.com/julio4/2022-fullstack-open/commit/a0c257ca2d03efea5b538639c0fee618bf0372bb)
 
-- Exercises 6.15 -> 6.18 [wip](.)
+- Exercises 6.15 -> 6.18 [see commit](https://github.com/julio4/2022-fullstack-open/commit/1b9a9f70a42cb7f6578a6ab8be23dfc2a563d05b)
 
 ### d. connect
 
