@@ -28,4 +28,4 @@
 
 [Course materials](https://fullstackopen.com/en/part6/connect)
 
-- Exercises 6.19 -> 6.21 [wip](.)
+- Exercises 6.19 -> 6.21 [see commit](https://github.com/julio4/2022-fullstack-open/commit/fab91d2fd8af4d4ae30863765fbfdbbd1e4b330f)
