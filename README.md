@@ -36,3 +36,8 @@ From part 6 I use branches to manage  exercises. The previous way was highly ine
 ## [Part 6 - State management with Redux](./part%206)
 
 [Course materials](https://fullstackopen.com/en/part6)
+
+## [Part 7 - React router, custom hooks, styling app with CSS and webpack](./part%207)
+
+[Course materials](https://fullstackopen.com/en/part7)
+
