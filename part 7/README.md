@@ -6,7 +6,7 @@
 
 [Course materials](https://fullstackopen.com/en/part7/react_router)
 
-- Exercises 7.1 -> 7.3 [wip](.)
+- Exercises 7.1 -> 7.3 [see commit](https://github.com/julio4/2022-fullstack-open/commit/d82626935966eff088ee58fdb22955ee8aee9fc0)
 
 ### b. Custom hooks
 
