@@ -18,7 +18,12 @@ const useField = (type) => {
 const useCountry = (name) => {
   const [country, setCountry] = useState(null)
 
-  useEffect(() => {})
+  useEffect(() => {
+    axios
+      .get(`https://restcountries.com/v2/name/${name}`)
+      .then(response => setCountry(response.data[0]))
+      .catch(error => setCountry(null))
+  }, [name])
 
   return country
 }
