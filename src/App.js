@@ -18,10 +18,27 @@ const useField = (type) => {
 const useResource = (baseUrl) => {
   const [resources, setResources] = useState([])
 
-  // ...
+  useEffect(() => {
+    getAll()
+  }, [baseUrl])
+
+  const getAll = () => {
+    axios
+      .get(baseUrl)
+      .then(response => setResources(response.data))
+      .catch(setResources([]))
+  }
 
   const create = (resource) => {
-    // ...
+    return axios
+      .post(baseUrl, resource)
+      .then(response => {
+        setResources([
+          ...resources,
+          response.data
+        ])
+        return response.data
+      })
   }
 
   const service = {
