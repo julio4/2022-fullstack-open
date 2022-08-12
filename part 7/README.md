@@ -12,7 +12,9 @@
 
 [Course materials](https://fullstackopen.com/en/part7/custom_hooks)
 
-- Exercises 7.4 -> 7.8 [wip](.)
+- Exercises 7.4 -> 7.7 [wip](https://github.com/julio4/2022-fullstack-open/commit/2e3755895b9aaf149bd768bf4fa780a77d3fc805)
+
+- Exercises 7.8 [wip](https://github.com/julio4/2022-fullstack-open/commit/5c4c0205367c0344873b1156284609ff477ceeaa)
 
 ### c. More about style
 
